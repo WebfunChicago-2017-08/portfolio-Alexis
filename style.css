@@ -1,0 +1,173 @@
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+  }
+   #maincontainer{
+      background-color: #6f5964;
+  } 
+  #top_menu{
+      background-color:#f6f6f6;
+      /* display: inline-block; */
+      height: 80px;
+  }
+
+  #fullname{
+      display: inline-block;
+      vertical-align: bottom;
+      font-size: 42px;
+      margin: 15px;
+      padding-left: 18px;
+      font-weight: bold;
+  }
+
+  #nickname{
+      float: right;
+      margin: 25px;
+      font-size: 26px;
+      font-weight: bold;
+  }
+ 
+  #main_content{
+      /* height: 800px; */
+  }
+   
+  #profile_pic{
+        display: inline-block;
+    }
+
+ .profile_area img{
+        width: 560px;
+        height: 400px;
+        margin: 36px;
+        margin-right: 14px;
+        border: 7px solid #c0c1c0;
+        margin-bottom: 14px;
+    }
+
+#dabout{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #f2ecf1;
+    width: 574px;
+    height: 414px;
+    margin: 36px;
+    margin-left: 14px;
+    margin-bottom: 14px; 
+}
+
+.header{
+    background-color: lightslategray;
+    height: 35px;
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.header.sm_header{
+    height: 17px;
+    font-size: 24px
+}
+
+.written {
+    margin: 5px 2px;
+}
+
+.written p{
+        margin: 29px 6px;
+    font-size: 21px;
+}
+.square{
+    display: inline-block;
+    width: 380px;
+    margin-left: 36px;
+}
+
+ #square_2{
+    margin-left: 16px;
+    vertical-align: top;
+} 
+
+#square_3{
+    margin-left: 16px;
+    vertical-align: top;
+}
+
+.pic3 img{
+    display: block;
+    width: 380px;
+}
+
+.paragraph{
+    background-color: #e7dee7;
+    font-size: 19px;
+    padding: 18px;
+    height: 200px;
+    text-align: justify;
+}
+
+.techlogos{
+    background-color: #e7dee7;
+    height: 155px;
+}
+
+.techlogos img{
+    width: 55px;
+    display: inline-block;
+    margin: 7px;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+
+.greenBott{
+    background-color: #e7dee7;
+    height: 79px;
+    text-align: center;
+}
+
+.greenBott div{
+    background-color: #407d61;
+    display: inline-block;
+    color: whitesmoke;
+    font-size: 18px;
+    padding: 8px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 12px;
+    margin-top: 12px;
+
+}
+
+#bott_main{
+    margin-bottom: 32px;
+}
+
+#footer{
+    text-align: center;
+    background-color: #f6f6f6;
+    height: 80px;
+    font-size: 21px;
+}
+p img{
+    width: 28px;
+}
+
+#footer img{
+    width: 28px;
+    display: inline-block;
+    padding-top: 2px;
+    position: relative;
+    top: 8px;
+}
+
+#last{
+    margin-top: 13px;
+}
+
